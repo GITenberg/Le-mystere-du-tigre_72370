@@ -1,0 +1,33 @@
+_repo: Le-mystere-du-tigre_72370
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Magre, Maurice
+    birthdate: 1877
+    deathdate: 1941
+    gutenberg_agent_id: '53160'
+    url: http://www.gutenberg.org/2009/agents/53160
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Maurice_Magre
+    - https://fr.wikipedia.org/wiki/Maurice_Magre
+description: ''
+gutenberg_issued: '2023-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72370'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k57895702
+pgterms:marc905: 20230422033201magre
+pgterms:marc906: '1927'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bAlbin Michel, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le mystère du tigre
+url: http://www.gutenberg.org/ebooks/72370
